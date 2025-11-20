@@ -1,0 +1,12 @@
+{
+	"name": "noise-expression-repro",
+	"version": "0.0.1",
+	"title": "Reproducer",
+	"author": "RampageNPC",
+	"dependencies": [
+		"base >= 2.0.72",
+		"?space-age >= 2.0.72"
+	],
+	"description": "Minimal Reproducer for Noise issues observed during upgrading of angelsinfiniteores to Factorio 2.0",
+	"factorio_version": "2.0"
+}
